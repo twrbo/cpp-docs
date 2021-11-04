@@ -14,6 +14,7 @@ This article shows how to use a tracking reference (%) in C++/CLI to pass common
 The following sample shows how to use a tracking reference to pass CLR types by reference.
 
 ```cpp
+test
 // tracking_reference_handles.cpp
 // compile with: /clr
 using namespace System;
